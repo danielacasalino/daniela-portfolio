@@ -1,0 +1,75 @@
+body{
+	font-family: "Lucida Console";
+}
+
+header{
+	height: 200px;
+	background-color: #FFFACD;
+}
+
+#navigation{
+	float: right;
+}
+
+#work{
+	background-color: #E6E6FA;
+	height: 750px;
+}
+
+#bio{
+	background-color: #B0C4DE;
+	height: 400px;
+}
+
+#ed{
+	background-color: #FFF0F5;
+	height: 700px;
+}
+
+.wrapper{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.wrapper img{
+	height: 200px;
+	margin: 8px;
+}
+
+#Education{
+	height: 400px;
+	width: 25%;
+	padding: 3%;
+	margin: 1.05%;
+}
+
+#Experience{
+	height: 400px;
+	width: 25%;
+	margin: 1%;
+}
+
+#Skills{
+	height: 400px;
+	width: 25%;
+	padding: 3%;
+	margin: 1.05%;
+}
+
+#contact{
+	height: 200px;
+	background-color: #F0FFF0;
+}
+
+#bio img{
+	height: 300px;
+}
+
+#me{
+	width: 66%;
+	padding: 2%;
+}
+
+.class{
+	float: right;
+}
